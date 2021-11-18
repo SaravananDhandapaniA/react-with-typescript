@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 import './App.css';
-import List from "./components/List"
+import List from "./components/List" ;
 import AddToList from './components/AddToList';
 
 export interface IState {
